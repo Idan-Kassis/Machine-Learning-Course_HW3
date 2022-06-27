@@ -2,7 +2,7 @@
 """
 Created on Wed May 18 18:59:01 2022
 
-@author: Dror
+@author: Tom and Idan
 """
 import matplotlib.pyplot as plt
 from sklearn.datasets import fetch_openml
