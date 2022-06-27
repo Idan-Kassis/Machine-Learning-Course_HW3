@@ -2,7 +2,7 @@
 """
 Created on Mon May  9 20:42:13 2022
 
-@author: Dror
+@author: Tom and Idan
 """
 import cv2
 
