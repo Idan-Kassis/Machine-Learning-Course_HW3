@@ -2,7 +2,7 @@
 """
 Created on Wed May 18 13:20:40 2022
 
-@author: Dror
+@author: Tom and Idan
 """
 import tensorflow as tf
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
