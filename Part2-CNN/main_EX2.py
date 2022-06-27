@@ -2,7 +2,7 @@
 """
 Created on Mon Jun  6 15:34:26 2022
 
-@author: idankas
+@author: Tom and Idan
 """
 
 
